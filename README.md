@@ -21,11 +21,11 @@ Traditional paper-based signatures and standard digital signatures face several 
 
 | Component | Technology Used |
 |-----------|----------------|
-| Frontend | Flutter / Web (HTML, JS) |
-| Backend | Django / Node.js (REST API) |
-| Database | MySQL / PostgreSQL |
+| Frontend | Flutter / Web |
+| Backend | Django (REST API) |
+| Database | PostgreSQL |
 | Authentication | Passkey-based (FIDO2/WebAuthn) |
-| Hosting | AWS / Local server |
+| Hosting | AWS  |
 | APIs | REST APIs |
 | Encryption | RSA / SHA-256 for document hashing |
 
@@ -40,7 +40,7 @@ Traditional paper-based signatures and standard digital signatures face several 
 - Share signed documents securely.  
 - Verify signed documents to ensure authenticity.
 
-### Admin Features (Optional)
+### Admin Features 
 - Manage users and system access.  
 - View signed document logs and audit trails.  
 - Monitor system security and authentication attempts.
@@ -136,4 +136,5 @@ S. Chandu	| Developer & Project Lead	|  Designed and implemented passkey-based d
 
 ## 📄 License
 This project is licensed under the MIT License – see LICENSE file for details.
+
 
