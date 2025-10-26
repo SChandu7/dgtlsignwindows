@@ -137,4 +137,13 @@ S. Chandu	| Developer & Project Lead	|  Designed and implemented passkey-based d
 ## 📄 License
 This project is licensed under the MIT License – see LICENSE file for details.
 
+---
+
+## Contact
+
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at kingchandus143@gmail.com 
+
+---
+
+
 
